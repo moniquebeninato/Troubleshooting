@@ -1,0 +1,26 @@
+{
+"name": "manmanzhangdahaizi89-xinliyouni",
+"version": "1.0.0",
+"description": "If you encounter any issues while using the project, refer to the troubleshooting guide or contact us for assistance.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/moniquebeninato/Troubleshooting.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "moniquebeninato",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
